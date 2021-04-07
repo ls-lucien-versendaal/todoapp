@@ -12,7 +12,6 @@
                     </div>
                 @endif
 
-
                 <div class="card">
                     <div class="card-header">{{ __('Dashboard') }}<span class="float-right"><a href="{{route('task.create')}}">Add new task</a></span></div>
 
